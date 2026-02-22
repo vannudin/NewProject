@@ -1,0 +1,5 @@
+{
+  "name": "Google Cloud Architecture Simulator",
+  "description": "An interactive drag-and-drop tool to design Google Cloud architectures, with an AI assistant to analyze, estimate costs, and generate Terraform code.",
+  "requestFramePermissions": []
+}
